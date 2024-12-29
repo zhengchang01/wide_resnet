@@ -1,0 +1,16 @@
+Carapa_guianensis 0
+Cedrela_fissilis 1
+Cedrela_odorata 2
+Dalbergia_latifolia 3
+Dalbergia_nigra 4
+Dalbergia_retusa 5
+Dalbergia_stevensonii 6
+Dalbergia_tucurensis 7
+Pterocarpus_indicus 8
+Pterocarpus_macrocarpus 9
+Pterocarpus_soyauxii 10
+Pterocarpus_tinctorius 11
+Swartzia_madagascar 12
+Swietenia_humilis 13
+Swietenia_macrophylla 14
+Swietenia_mahagoni 15
